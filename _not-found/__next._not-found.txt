@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/superz-site/_next/static/chunks/49748df6607775a5.js","/superz-site/_next/static/chunks/4ec64e835e29c1ad.js","/superz-site/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+3:I[37457,["/superz-site/_next/static/chunks/49748df6607775a5.js","/superz-site/_next/static/chunks/4ec64e835e29c1ad.js","/superz-site/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+0:{"buildId":"d79kALsafVg9yYAz0MvY-","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
